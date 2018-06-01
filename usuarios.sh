@@ -3,7 +3,7 @@
 echo "1. Crear un usuario nuevo"
 echo "2. Añadir una contraseña a un usuario existente"
 echo "3. Crear un grupo nuevo"
-echo "4. Añadir usuario a un grupo existente"
+echo "4. Añadir usuario a un grupo que ya existe"
 echo "5. Salir del programa"
 
 read opcion
