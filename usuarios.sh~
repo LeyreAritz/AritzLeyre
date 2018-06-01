@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "1. Crear un usuario"
+echo "1. Crear un usuario nuevo"
 echo "2. Añadir una contraseña a un usuario existente"
 echo "3. Crear un grupo"
 echo "4. Añadir usuario a un grupo existente"
